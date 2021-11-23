@@ -1,0 +1,7 @@
+Agente Primario - Primeiro - Usuario
+Agente Secundario - Verificador - Banco
+
+Uso Primario direto aos agentes
+
+
+Usuario - Login > Precisa de Verificação 
